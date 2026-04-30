@@ -33,7 +33,7 @@ Run the desktop application directly with Python:
 ```bash
 python app.py
 ```
-**Visual Representation**
+###Visual Represnetation
 ![Visual Representation](https://github.com/zodiac9363/StockPulsZ/blob/main/ezgif-6eaf5a6ff027915b.gif)
 
 
