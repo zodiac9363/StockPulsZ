@@ -1,4 +1,4 @@
-# StockPulseX
+# StockPulsZ
 
 Stock Sentinel Pro is a sleek, desktop-based financial visualization tool that fetches real-time stock data and generates interactive, animated trend charts. It allows you to compare multiple symbols side-by-side with automated technical indicators like Moving Averages.
 
