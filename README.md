@@ -49,6 +49,6 @@ python app.py
 
 
 **Result**
-https://github.com/zodiac9363/StockPulsZ/blob/main/ezgif-6eaf5a6ff027915b.gif?raw=true
+https://github.com/zodiac9363/StockPulsZ/blob/main/ezgif-6eaf5a6ff027915b.gif
 
 
