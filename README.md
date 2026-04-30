@@ -33,6 +33,9 @@ Run the desktop application directly with Python:
 ```bash
 python app.py
 ```
+**Visual Representation**
+https://github.com/zodiac9363/StockPulsZ/blob/main/ezgif-6eaf5a6ff027915b.gif
+
 
 ##  Built With
 - **[Alpha Vantage](https://www.alphavantage.co/):** Real-time financial data API.
@@ -47,8 +50,5 @@ python app.py
 4. Wait for the data fetch to complete (the progress bar will track the 12-second delay between stocks to avoid rate limits).
 5. A browser window will automatically open showing your animated `.html` report.
 
-
-**Result**
-https://github.com/zodiac9363/StockPulsZ/blob/main/ezgif-6eaf5a6ff027915b.gif
 
 
